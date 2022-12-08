@@ -1,4 +1,4 @@
-Recomendações
+<h1>Recomendações</h1>
 Depois de clonar o repositório, você precisa:
 
 Executar o comando composer update ou composer install para instalar as dependências.
